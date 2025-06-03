@@ -89,4 +89,5 @@ cd frontend
 npm start
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/464b1bdf-7a9d-4472-964a-06aa7b66ad91)
 
