@@ -80,7 +80,7 @@ A modern, real-time collaborative document editor built with React, Node.js, Soc
 
 Below is a screenshot of the application in action:
 
-![Output Screenshot](output.jpg)
+![Image](https://github.com/user-attachments/assets/61ec7bcc-075b-44f6-a760-05a624ad3439)
 
 ## Contributing
 
